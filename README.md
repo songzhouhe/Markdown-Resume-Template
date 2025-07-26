@@ -1,18 +1,23 @@
  <center>
-     <h1>XXX</h1>
+     <h1>何松洲</h1>
  </center>
+
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 手 机：13202677181 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：hesongzhou@qq.com
+* 专 业：经济学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
 
-## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
+## 工作经历
+
+华为数字能源技术有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.12~至今
+* 负责充电桩与客户平台之间交互模块的开发
+* 负责后期跟客户平台的对接联调，累计对接数十家客户，全网运行站点规模达上千台
+* 负责新功能的前期设计和功能说明书的输出
+* 曾主导已有模块的代码重构，应用设计模式，累计优化5k行代码
+* 作为特性onwer，主导产品上tftp/ftp文件下载功能的开发
+
 
 ## 专业技能
 
@@ -20,43 +25,14 @@
 * 掌握基础数据结构和算法的基本原理
 * 等等
 
-## 项目经历
-
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512
-    * 具体功能
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址
-
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401
-    * 具体功能
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址
-
-## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
-
-## 个人账号
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
 
 ## 其他信息
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等
-
-## 在线制作简历
-
-卡码简历：[https://jianli.kamacoder.com](https://jianli.kamacoder.com/)
-
-![](https://file1.kamacoder.com/i/web/2025-05-28_10-38-55.jpg)
-
-可以轻松制作出简洁高质量的简历。
-
-## 总结
-
-**好的简历是敲门砖，同时也不要在简历上花费过多的精力，好的简历以及面试技巧都是锦上添花**，真的求得心得的offer靠的还是真才实学。
+* 英语听说读写能力优秀，与母语使用者沟通交流无压力
+* 曾在广发证券行研岗实习，有一定的金融知识
+* 抗压能力强
 
 
+## 教育经历
+
+* 香港科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.09~2021.07&emsp;&emsp;&emsp;&emsp; 经济学-研究生
+* 詹姆斯库克大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2017.07&emsp;&emsp;&emsp;&emsp; 环境科学-本科
