@@ -5,8 +5,7 @@
 
 ## 个人信息
 
-* 手 机：13202677181 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：hesongzhou@qq.com
-* 专 业：经济学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
+* 手 机：13202677181 &emsp;&emsp;&emsp;  邮 箱：hesongzhou@qq.com &emsp;&emsp;&emsp; 应聘岗位：软件研发工程师
 
 
 ## 工作经历
