@@ -1,11 +1,7 @@
- <center>
-     <h1>何松洲</h1>
- </center>
-
-
 ## 个人信息
 
-* 手 机：13202677181 &emsp;&emsp;  邮 箱：hesongzhou@qq.com &emsp;&emsp; 应聘岗位：软件研发工程师
+* 姓 名：何松洲 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
+* 手 机：13202677181 &emsp;&emsp;  邮 箱：hesongzhou@qq.com &emsp;&emsp;
 
 
 ## 工作经历
