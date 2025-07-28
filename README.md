@@ -35,3 +35,4 @@
 * 詹姆斯库克大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2017.07&emsp;&emsp;&emsp;&emsp; 环境科学-本科
 
 jojo，我不做人啦
+Run!
