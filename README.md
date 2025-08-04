@@ -33,3 +33,5 @@
 
 * 香港科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.09~2021.07&emsp;&emsp;&emsp;&emsp; 经济学-研究生
 * 詹姆斯库克大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2017.07&emsp;&emsp;&emsp;&emsp; 环境科学-本科
+
+test local change
