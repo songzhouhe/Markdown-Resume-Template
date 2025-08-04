@@ -1,6 +1,6 @@
 ## 个人信息
 
-* 姓 名：蔡诗旭 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
+* 姓 名：何松洲 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
 * 手 机：13202677181 &emsp;&emsp;  邮 箱：hesongzhou@qq.com &emsp;&emsp;
 
 
@@ -33,7 +33,3 @@
 
 * 香港科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.09~2021.07&emsp;&emsp;&emsp;&emsp; 经济学-研究生
 * 詹姆斯库克大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2017.07&emsp;&emsp;&emsp;&emsp; 环境科学-本科
-
-jojo，我不做人啦
-Run!
-老东西，你最厉害啦
